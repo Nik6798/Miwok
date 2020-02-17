@@ -1,2 +1,3 @@
 # Miwok
-A language translation app
+A language translation android application
+
